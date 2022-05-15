@@ -6,5 +6,6 @@
 
 生命のようにゆらめくドットが神秘的で、発色の良いLEDはまるで花火のように美しく、必見です！
 
+![アニメーション](/img/animation.gif)
 
-[![video](https://img.youtube.com/vi/L6M5b7wfIgE/0.jpg)](https://www.youtube.com/watch?v=L6M5b7wfIgE)
+[youtube](https://www.youtube.com/watch?v=L6M5b7wfIgE)
